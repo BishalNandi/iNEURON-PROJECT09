@@ -550,4 +550,28 @@ li:first-child{
    
 
   }
+
+  .footer-right{
+    display: none;
+  }
+
+  .footer-left{
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .list{
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .footer-section{
+    height: 100%;
+    margin-top: 50px;
+  }
+
+  .download-section{
+    display: none;
+  }
+
 }
